@@ -1,0 +1,1 @@
+# bitrise-log-analyzer-patterns
