@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "pattern": "todopattern",
+      "answer": "First Code Signing Answer"
+    },
+    {
+      "pattern": "second problem",
+      "answer": "second answer"
+    },
+    {
+      "pattern": "Invalid Code Signing Entitlements",
+      "answer": "Upload your Code Signing files"
+    }
+  ]
+}
