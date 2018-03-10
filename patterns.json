@@ -1,12 +1,10 @@
-{
-  "data": [
-    {
-      "pattern": "Code Signing Error: No profiles for '.*' were found:  Xcode couldn't find any iOS App .* provisioning profiles matching '.*'",
-      "answer": "You may forget to upload the %[2]s provisioning profile for bundleID: %[1]s"
-    },
-    {
-      "pattern": "No podspec found",
-      "answer": "Commit the Podfile.lock file into your repository"
-    }
-  ]
-}
+[
+  {
+    "pattern": "Code Signing Error: No profiles for '.*' were found:  Xcode couldn't find any iOS App .* provisioning profiles matching '.*'",
+    "answer": "You may forget to upload the %[2]s provisioning profile for bundleID: %[1]s"
+  },
+  {
+    "pattern": "No podspec found",
+    "answer": "Commit the Podfile.lock file into your repository"
+  }
+]
