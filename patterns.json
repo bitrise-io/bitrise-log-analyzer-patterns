@@ -6,5 +6,9 @@
   {
     "pattern": "No podspec found",
     "answer": "Commit the Podfile.lock file into your repository"
+  },
+  {
+    "pattern": "Carthage command failed",
+    "answer": "This usually indicates that project itself failed to compile. Please check the xcodebuild log for more details"
   }
 ]
